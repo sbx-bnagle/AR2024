@@ -28,7 +28,7 @@ To scale application codes to hundreds and thousands of Aurora processes via the
 ## Performance Results
 Working on Aurora, the team was able prepare for a run that would scale from 1280 nodes up to 10,240 nodes successfully for the Burns and Christon benchmark problem on a 2-level structured adaptive mesh refinement grid with more than 129 billion cells, demonstrating that good strong-scaling efficiency is achievable.
 
-These large-scale studies explored the impact of a larger refinement ratio to determine if aggressive mesh refinement will make full-system runs possible. The Uintah runtime systems have proved exceptionally capable in enabling the application to run scalably on Aurora.
+These large-scale studies explored the impact of a larger refinement ratio to determine if aggressive mesh refinement will make full-system runs possible. The Uintah runtime systems have proved exceptionally capable in enabling the application to run efficiently at scale on Aurora.
 
 
 {% include media-img.html
